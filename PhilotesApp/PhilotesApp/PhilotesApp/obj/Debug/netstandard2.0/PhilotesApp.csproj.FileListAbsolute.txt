@@ -1,0 +1,16 @@
+D:\Mobile\PhilotesApp\PhilotesApp\PhilotesApp\PhilotesApp\obj\Debug\netstandard2.0\PhilotesApp.csproj.AssemblyReference.cache
+D:\Mobile\PhilotesApp\PhilotesApp\PhilotesApp\PhilotesApp\obj\Debug\netstandard2.0\PhilotesApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mobile\PhilotesApp\PhilotesApp\PhilotesApp\PhilotesApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Mobile\PhilotesApp\PhilotesApp\PhilotesApp\PhilotesApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Mobile\PhilotesApp\PhilotesApp\PhilotesApp\PhilotesApp\obj\Debug\netstandard2.0\PhilotesApp.AssemblyInfoInputs.cache
+D:\Mobile\PhilotesApp\PhilotesApp\PhilotesApp\PhilotesApp\obj\Debug\netstandard2.0\PhilotesApp.AssemblyInfo.cs
+D:\Mobile\PhilotesApp\PhilotesApp\PhilotesApp\PhilotesApp\obj\Debug\netstandard2.0\PhilotesApp.csproj.CoreCompileInputs.cache
+D:\Mobile\PhilotesApp\PhilotesApp\PhilotesApp\PhilotesApp\bin\Debug\netstandard2.0\PhilotesApp.deps.json
+D:\Mobile\PhilotesApp\PhilotesApp\PhilotesApp\PhilotesApp\bin\Debug\netstandard2.0\PhilotesApp.dll
+D:\Mobile\PhilotesApp\PhilotesApp\PhilotesApp\PhilotesApp\bin\Debug\netstandard2.0\ref\PhilotesApp.dll
+D:\Mobile\PhilotesApp\PhilotesApp\PhilotesApp\PhilotesApp\bin\Debug\netstandard2.0\PhilotesApp.pdb
+D:\Mobile\PhilotesApp\PhilotesApp\PhilotesApp\PhilotesApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Mobile\PhilotesApp\PhilotesApp\PhilotesApp\PhilotesApp\obj\Debug\netstandard2.0\PhilotesApp.dll
+D:\Mobile\PhilotesApp\PhilotesApp\PhilotesApp\PhilotesApp\obj\Debug\netstandard2.0\ref\PhilotesApp.dll
+D:\Mobile\PhilotesApp\PhilotesApp\PhilotesApp\PhilotesApp\obj\Debug\netstandard2.0\PhilotesApp.pdb
+D:\Mobile\PhilotesApp\PhilotesApp\PhilotesApp\PhilotesApp\obj\Debug\netstandard2.0\Views\Pets\ListagemView.xaml.g.cs
